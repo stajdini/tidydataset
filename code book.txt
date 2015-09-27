@@ -1,0 +1,1 @@
+The subjects are identified with "subject ID". Eeach column cariies the measurement name it refers to
