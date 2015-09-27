@@ -1,8 +1,7 @@
 # tidydataset
 project for coursera class "getting and cleaning data"
 
-After getting the data from
-https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+All the files present in this repo must be copied to R working directory for the script to run. 
 
 Running this script will:
 Merges the training and the test sets to create one data set.
